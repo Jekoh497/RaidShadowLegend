@@ -1,0 +1,24 @@
+# RaidShadowLegend
+Not mandatory but requires to simplify the way you manage your artefacts and accessories : the RaidExtractor tool available at: https://github.com/LukeCroteau/RaidExtractor/releases/tag/0.8.12
+
+1/ Download the excel file with macros : Raid-gear_management.xlsm and the zip file containing champions pictures (that you can fill yourself with future picture in .JPG)
+   save the file wherever you want and the folder pic in same folder than the excel file
+
+2/ Download the raid extractor tool at the link above or given in the excel sheet
+   the data extraction need to Raid running
+
+3/ launch your game on PC
+   Generate the .json artefact file and store it in same folder than the excel one
+
+4 /Open the excel and enable the macro
+   Hit the button to open the menu
+
+
+In the menu, with the button "raid extractor" you can download in the excel file all the data from the json file : all artefacts and heroes
+but you can also add everything manually if you want add some heroes from blank or from the existing datachampion lvl60 ascended in the database or artefact
+
+Do not forget to set yourself your arena lvl and your great hall development
+in the champion window, the artefacts and accessories proposed are those not equiped or equiped on the champion himself so that you can gear successively all 5 champions in the list without duplicate gear use
+you can remove the gear on one champion or all champions to restart from fresh and gear gradually by testing and see the change in the total before and after / confirm the change or not
+
+SAVE YOUR INGAME SILVER 
