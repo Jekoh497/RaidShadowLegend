@@ -1,5 +1,5 @@
 # RaidShadowLegend
-Not mandatory but requires to simplify the way you manage your artefacts and accessories : the RaidExtractor tool available at: https://github.com/LukeCroteau/RaidExtractor/releases/tag/0.8.12
+Not mandatory but requires to simplify the way you manage your artefacts and accessories : the RaidExtractor tool available at: https://github.com/LukeCroteau/RaidExtractor/releases
 
 1/ Download the excel file with macros : Raid-gear_management.xlsm and the zip file containing champions pictures (that you can fill yourself with future picture in .JPG)
    save the file wherever you want and the folder pic in same folder than the excel file
