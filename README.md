@@ -21,4 +21,6 @@ Do not forget to set yourself your arena lvl and your great hall development
 in the champion window, the artefacts and accessories proposed are those not equiped or equiped on the champion himself so that you can gear successively all 5 champions in the list without duplicate gear use
 you can remove the gear on one champion or all champions to restart from fresh and gear gradually by testing and see the change in the total before and after / confirm the change or not
 
+https://youtu.be/kHVym0IcJw0
+
 SAVE YOUR INGAME SILVER 
