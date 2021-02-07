@@ -23,4 +23,5 @@ you can remove the gear on one champion or all champions to restart from fresh a
 
 https://youtu.be/kHVym0IcJw0
 
-SAVE YOUR INGAME SILVER 
+BUILD 1 
+including a clan boss calculator with buffs and turnmeter effects. Randomize effects no taken into account (coming from gears, masteries, or champion skills) so some calculations may be irrelevant compared to your in game run 
