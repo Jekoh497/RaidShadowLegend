@@ -27,3 +27,6 @@ https://youtu.be/kHVym0IcJw0
 BUILD 1 
 including a clan boss calculator with buffs and turnmeter effects. Randomize effects no taken into account (coming from gears, masteries, or champion skills) so some calculations may be irrelevant compared to your in game run 
 https://youtu.be/x5E4ZP21Qfw
+
+BUILD 2
+added shadowkin faction, gaurdian and bloodthirst set, latest champions addition (except pictures of April fusion champions)
