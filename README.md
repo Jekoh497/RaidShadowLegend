@@ -29,4 +29,4 @@ including a clan boss calculator with buffs and turnmeter effects. Randomize eff
 https://youtu.be/x5E4ZP21Qfw
 
 BUILD 2
-added shadowkin faction, gaurdian and bloodthirst set, latest champions addition (except pictures of April fusion champions)
+added shadowkin faction, guardian and bloodthirst set, latest champions addition (except pictures of April fusion champions)
