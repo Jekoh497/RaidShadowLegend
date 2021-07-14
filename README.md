@@ -30,3 +30,6 @@ https://youtu.be/x5E4ZP21Qfw
 
 BUILD 2
 added shadowkin faction, guardian and bloodthirst set, latest champions addition (except pictures of April fusion champions)
+
+BUILD 3
+added champion, issue correction
