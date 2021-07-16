@@ -33,3 +33,6 @@ added shadowkin faction, guardian and bloodthirst set, latest champions addition
 
 BUILD 3
 added champion, issue correction
+
+BUILD 3.1
+correction for extractor import to be suitable for all windows/excel environment using dot or comma as decimal separator
