@@ -36,3 +36,6 @@ added champion, issue correction
 
 BUILD 3.1
 correction for extractor import to be suitable for all windows/excel environment using dot or comma as decimal separator
+
+BUILD 3.2
+addition of stars / ascended and lvl of each champion in overview page
