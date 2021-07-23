@@ -39,3 +39,6 @@ correction for extractor import to be suitable for all windows/excel environment
 
 BUILD 3.2
 addition of stars / ascended and lvl of each champion in overview page
+
+BUILD 3.3
+addition of data button in champion gearing page to have info about raw damage, survivability and debuff applying probability with current gear and tested gear
